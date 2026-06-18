@@ -142,7 +142,7 @@ git clone https://github.com/nextup123/inventory_manager.git
 Move into the project
 
 ```bash
-cd inventory-management
+cd inventory_manager
 ```
 
 Install dependencies
@@ -177,12 +177,8 @@ NODE_ENV=development
 
 - Authentication & Authorization
 - Dashboard Analytics
-- Barcode/QR Code Support
 - Search & Filtering
 - Pagination
-- Export to Excel/PDF
-- Email Notifications
-- Image Upload for Inventory Items
 - Low Stock Alerts
 
 ---
@@ -192,7 +188,3 @@ NODE_ENV=development
 This project is licensed under the MIT License.
 
 ---
-
-# Author
-
-**Shashikant**
